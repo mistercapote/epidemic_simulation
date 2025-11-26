@@ -9,4 +9,5 @@ dependencies = [
     "matplotlib>=3.10.7",
     "networkx>=3.5",
     "numpy>=2.3.5",
+    "powerlaw>=1.5",
 ]
